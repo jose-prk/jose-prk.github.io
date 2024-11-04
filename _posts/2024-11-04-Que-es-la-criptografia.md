@@ -1,5 +1,5 @@
 ---
-title: Qué es GrapheneOS y cómo instalarlo en tu dispositivo
+title: ¿Qué es la criptografía?
 description: En la era de la digitalización, la necesidad por salvaguardar la privacidad de nuestra información y nuestras comunicaciones, ha hecho de la criptografía una herramienta fundamental de ciberseguridad para proteger nuestra información confidencial de hackers, gobiernos y ciberdelincuentes. 
 date: 2024-11-04 21:00:00 +0200
 categories: [Criptografia]
