@@ -4,7 +4,7 @@ description: Esta guía ha sido creada con el propósito de facilitar la instala
 date: 2024-07-21 19:28:00 +0200
 categories: [Linux]
 tags: [Linux, Arch Linux, Avanzado]
-pin: false
+pin: true
 mermaid: true
 image:
   path: /assets/img/posts/archbtw.png
