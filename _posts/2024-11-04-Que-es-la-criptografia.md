@@ -12,12 +12,12 @@ image:
 ---
 ## Índice
 
-1. [Introducción](#Introducción)
-2. [¿Qué es la criptografía?](#¿Que-es-la-criptografía?)
+1. [Introducción](#Introduccion)
+2. [¿Qué es la criptografía?](#Que-es-la-criptografia)
 3. [Tipos de cifrado](#Tipos-de-cifrado)
-    - [Criptografía simétrica](#Criptografía-simétrica)
-    - [Criptografía asimétrica](#Criptografía-asimétrica)
-    - [Criptografía híbrida](#Criptografía-híbrida)
+    - [Criptografía simétrica](#Criptografia-simetrica)
+    - [Criptografía asimétrica](#Criptografia-asimetrica)
+    - [Criptografía híbrida](#Criptografia-hibrida)
 4. [Funciones hash](#Funciones-hash)
 5. [Firma digital](#Firma-digital)
 6. [Certificado digital](#Certificado-digital)
